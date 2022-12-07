@@ -1,0 +1,36 @@
+hovedtavle:
+    id:   ht1
+    type: gruppetavle
+    detaljer: stål
+    tilg: ukendt
+    tilgang_fra: hovedtavle
+    children:
+      - type: undertavlegruppe
+        id: grp_radiostude
+        afbryder: 3P+N, vrider
+        sikringstype: knivsikring
+        In: ukendt
+        - type: undertavlegruppe
+          id: Køkken
+          label: Køkken
+          afbryder: 3P+N
+          sikringstype: knivsikring
+          sikring: 100A
+        - type: undertavlegruppe
+          id: grpafb_tekoekken
+          label: Tekøkken
+          afbryder: 3P+N
+          sikringstype: knivsikring
+          sikring: 200A
+        - type: undertavlegruppe
+          id: grpafb_varmerum1
+          label: Varmerum 1
+          afbryder: 3P+N
+          sikringstype: knivsikring
+          sikring: 125A
+        - type: undertavlegruppe
+          id: grpafb_varmerum2
+          label: Varmerum 2
+          afbryder: 3P+N
+          sikringstype: knivsikring
+          sikring: ukendt

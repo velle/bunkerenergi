@@ -1,0 +1,143 @@
+hovedtavle:
+    id:   ht1
+    type: hovedtavle
+    tilg: 3g2.5 10m
+    children:
+      - type: hovedkniv
+        id: grp1
+        afbryder: 3P+N
+        sikringstype: maksimal
+        In: 800A
+        children:
+            - type: undertavlegruppe
+              id: grpafb_BP1
+              label: BP
+              afbryder: 3P+N
+              sikringstype: knivsikring
+              sikring: 224A
+            - type: undertavlegruppe
+              id: grpafb_koekken
+              label: Køkken
+              afbryder: 3P+N
+              sikringstype: knivsikring
+              sikring: 100A
+            - type: undertavlegruppe
+              id: grpafb_tekoekken
+              label: Tekøkken
+              afbryder: 3P+N
+              sikringstype: knivsikring
+              sikring: 200A
+            - type: undertavlegruppe
+              id: grpafb_varmerum1
+              label: Varmerum 1
+              afbryder: 3P+N
+              sikringstype: knivsikring
+              sikring: 125A
+            - type: undertavlegruppe
+              id: grpafb_varmerum2
+              label: Varmerum 2
+              afbryder: 3P+N
+              sikringstype: knivsikring
+              sikring: ukendt
+            - type: sektionsafb
+              id: sek1afb
+              afbryder: 3 sikringer og boltet laske til N
+              sikringstype: knivsikring
+              sikring: 225A
+              children:
+                - type: gruppeafb
+                  id: grp1.1
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp1.2
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp1.3
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp1.4
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp1.5
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp1.6
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp1.7
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+            - type: sektionsafb
+              id: sek2afb
+              afbryder: 3 sikringer og laske til N
+              sikringstype: mellemkniv
+              sikring: 225A
+                - type: gruppeafb
+                  id: grp2.1
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp2.2
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp2.3
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp2.4
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp2.5
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
+                - type: gruppeafb
+                  id: grp2.6
+                  afbryder: 3P+N
+                  label: BP
+                  sikringstype: D01
+                  pasring: 32A
+                  sikring: 32A
