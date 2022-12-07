@@ -57,11 +57,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="309.71277"
-     inkscape:cy="592.90904"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="245.36605"
+     inkscape:cy="515.48083"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer13"
      showgrid="true"
      inkscape:window-width="1526"
      inkscape:window-height="836"
@@ -87,7 +87,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,21 +94,26 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="bg"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#040000;stroke-width:0.461836;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect109213"
        width="140.9373"
        height="169.33333"
        x="22.111605"
-       y="53.468174" />
+       y="53.468174"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="93.544334"
        y="63.187508"
-       id="text1999"><tspan
+       id="text1999"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="93.544334"
          y="63.187508"
@@ -120,7 +124,10 @@
        style="font-style:normal;font-weight:normal;font-size:1.57892px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0394729"
        x="37.57885"
        y="65.231796"
-       id="text6875"><tspan
+       id="text6875"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          id="tspan6873"
          x="37.57885"
@@ -146,7 +153,10 @@
        style="font-style:normal;font-weight:normal;font-size:5.91699px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.147925"
        x="90.822678"
        y="70.747032"
-       id="text1999-3"><tspan
+       id="text1999-3"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="90.822678"
          y="70.747032"
@@ -647,7 +657,10 @@
        d="m 72.431874,152.58633 1.464658,-2.09665 v -7.33266"
        id="path977-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9"
@@ -655,25 +668,37 @@
        height="4.604692"
        x="72.769997"
        y="144.32491"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 77.265366,155.67957 -3.368833,-0.11668 v -2.19114 0.67119"
        id="path977-5-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.274326px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 73.870723,143.16367 v -4.7251"
        id="path1409-8-1"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 73.361108,133.87325 1.183582,-1.69429 v -5.92549"
        id="path977-9-3"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2"
@@ -681,19 +706,28 @@
        height="2.1618834"
        x="73.941452"
        y="129.55959"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 77.267027,135.09007 -2.722336,-0.0943 v -1.00705"
        id="path977-5-6-1"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 72.431874,173.75301 1.464658,-2.09665 v -7.33266"
        id="path977-9-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-1"
@@ -701,25 +735,37 @@
        height="4.604692"
        x="72.769997"
        y="165.49159"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 77.265366,176.84625 -3.368833,-0.11668 v -2.19114 0.67119"
        id="path977-5-6-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.274326px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 73.870723,164.33035 v -4.7251"
        id="path1409-8-1-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 127.8222,78.458268 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-8"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-3"
@@ -728,19 +774,28 @@
        x="-77.877922"
        y="122.97938"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 130.11884,77.291858 -2.23245,-0.0172"
        id="path977-5-6-1-2-8"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 127.8222,89.041603 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-8-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-3-4"
@@ -749,19 +804,28 @@
        x="-88.46125"
        y="122.97938"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 130.11884,87.875193 -2.23245,-0.0172"
        id="path977-5-6-1-2-8-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="122.51021"
        y="75.910156"
-       id="text953-1-2-4-9-0-6-6-9-9"><tspan
+       id="text953-1-2-4-9-0-6-6-9-9"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="122.51021"
          y="75.910156"
@@ -772,7 +836,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="122.51021"
        y="86.493484"
-       id="text953-1-2-4-9-0-6-6-9-2"><tspan
+       id="text953-1-2-4-9-0-6-6-9-2"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="122.51021"
          y="86.493484"
@@ -783,7 +850,10 @@
        d="m 127.8222,99.624935 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-4"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-4"
@@ -792,19 +862,28 @@
        x="-99.044579"
        y="122.97938"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 130.11884,98.458525 -2.23245,-0.0172"
        id="path977-5-6-1-2-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 127.8222,104.9166 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-8-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-3-3"
@@ -813,19 +892,28 @@
        x="-104.33624"
        y="122.97938"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 130.11884,103.75019 -2.23245,-0.0172"
        id="path977-5-6-1-2-8-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 127.8222,110.20827 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-8-0-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-3-4-5"
@@ -834,19 +922,28 @@
        x="-109.62791"
        y="122.97938"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 130.11884,109.04186 -2.23245,-0.0172"
        id="path977-5-6-1-2-8-0-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="122.51021"
        y="97.076813"
-       id="text953-1-2-4-9-0-6-6-9-29"><tspan
+       id="text953-1-2-4-9-0-6-6-9-29"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="122.51021"
          y="97.076813"
@@ -857,7 +954,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="122.51021"
        y="102.36848"
-       id="text953-1-2-4-9-0-6-6-9-9-3"><tspan
+       id="text953-1-2-4-9-0-6-6-9-9-3"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="122.51021"
          y="102.36848"
@@ -868,7 +968,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="96.57148"
        y="97.074455"
-       id="text953-1-2-4-9-0-6-6-9-9-3-0"><tspan
+       id="text953-1-2-4-9-0-6-6-9-9-3-0"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="96.57148"
          y="97.074455"
@@ -879,7 +982,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="122.51021"
        y="107.66014"
-       id="text953-1-2-4-9-0-6-6-9-2-1"><tspan
+       id="text953-1-2-4-9-0-6-6-9-2-1"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="122.51021"
          y="107.66014"
@@ -890,7 +996,10 @@
        d="m 127.8222,120.79161 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-43"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-1"
@@ -899,19 +1008,28 @@
        x="-120.21124"
        y="122.97938"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 130.11884,119.6252 -2.23245,-0.0172"
        id="path977-5-6-1-2-4"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 127.8222,126.08328 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-8-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-3-9"
@@ -920,19 +1038,28 @@
        x="-125.50291"
        y="122.97938"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 130.11884,124.91687 -2.23245,-0.0172"
        id="path977-5-6-1-2-8-4"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="122.51021"
        y="118.24348"
-       id="text953-1-2-4-9-0-6-6-9-4"><tspan
+       id="text953-1-2-4-9-0-6-6-9-4"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="122.51021"
          y="118.24348"
@@ -943,7 +1070,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="122.51021"
        y="123.53514"
-       id="text953-1-2-4-9-0-6-6-9-9-2"><tspan
+       id="text953-1-2-4-9-0-6-6-9-9-2"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="122.51021"
          y="123.53514"
@@ -954,7 +1084,10 @@
        d="m 153.22221,78.458267 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-47"
@@ -963,19 +1096,28 @@
        x="-77.877922"
        y="148.37939"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 156.57718,77.291857 -2.23245,-0.0172 h -1.00705"
        id="path977-5-6-1-2-93"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 153.22221,83.749935 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-8-92"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-3-8"
@@ -984,19 +1126,28 @@
        x="-83.169586"
        y="148.37939"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 156.57718,82.583525 -2.23245,-0.0172 h -1.00705"
        id="path977-5-6-1-2-8-3"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 153.22221,89.041603 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-8-0-01"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-3-4-7"
@@ -1005,19 +1156,28 @@
        x="-88.46125"
        y="148.37939"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 156.57718,87.875193 -2.23245,-0.0172 h -1.00705"
        id="path977-5-6-1-2-8-0-8"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="147.91022"
        y="75.910156"
-       id="text953-1-2-4-9-0-6-6-9-91"><tspan
+       id="text953-1-2-4-9-0-6-6-9-91"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="147.91022"
          y="75.910156"
@@ -1028,7 +1188,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="147.91022"
        y="81.20182"
-       id="text953-1-2-4-9-0-6-6-9-9-9"><tspan
+       id="text953-1-2-4-9-0-6-6-9-9-9"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="147.91022"
          y="81.20182"
@@ -1039,7 +1202,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="147.91022"
        y="86.493484"
-       id="text953-1-2-4-9-0-6-6-9-2-5"><tspan
+       id="text953-1-2-4-9-0-6-6-9-2-5"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="147.91022"
          y="86.493484"
@@ -1050,7 +1216,10 @@
        d="m 153.22221,126.08328 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-8-92-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-3-8-4"
@@ -1059,19 +1228,28 @@
        x="-125.50291"
        y="148.37939"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 156.57718,124.91687 -2.23245,-0.0172 h -1.00705"
        id="path977-5-6-1-2-8-3-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 153.22221,131.37495 -1.69429,-1.18358 h -7.77994"
        id="path977-9-3-5-8-0-01-2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-5-3-4-7-54"
@@ -1080,19 +1258,28 @@
        x="-130.79457"
        y="148.37939"
        ry="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 156.57718,130.20854 -2.23245,-0.0172 h -1.00705"
        id="path977-5-6-1-2-8-0-8-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="148.43938"
        y="124.06431"
-       id="text953-1-2-4-9-0-6-6-9-9-9-4"><tspan
+       id="text953-1-2-4-9-0-6-6-9-9-9-4"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="148.43938"
          y="124.06431"
@@ -1103,7 +1290,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="148.43938"
        y="129.37959"
-       id="text953-1-2-4-9-0-6-6-9-2-5-3"><tspan
+       id="text953-1-2-4-9-0-6-6-9-2-5-3"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="148.43938"
          y="129.37959"
@@ -1114,7 +1304,10 @@
        d="m 98.890208,99.669632 1.464662,-2.09665 v -7.332657"
        id="path977-9-4"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-8"
@@ -1122,25 +1315,37 @@
        height="4.604692"
        x="99.228317"
        y="91.408249"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 103.7237,102.76287 -3.36883,-0.11668 v -2.19114 0.67119"
        id="path977-5-6-04"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.274326px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 100.32906,90.246975 V 85.521878"
        id="path1409-8-1-2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 152.73614,102.12323 1.18358,-1.69429 v -5.925484"
        id="path977-9-3-3"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-2-57"
@@ -1148,19 +1353,28 @@
        height="2.1618834"
        x="153.31645"
        y="97.809593"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 156.64206,103.34005 -2.72233,-0.0943 v -1.00705"
        id="path977-5-6-1-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 72.431875,120.83631 1.464661,-2.09665 V 111.407"
        id="path977-9-4-87-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect895-6-9-8-9-0"
@@ -1168,25 +1382,37 @@
        height="4.604692"
        x="72.769997"
        y="112.57491"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 77.265365,123.92955 -3.36883,-0.11668 v -2.19114 0.67119"
        id="path977-5-6-04-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.274326px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 73.870725,111.41365 v -4.7251"
        id="path1409-8-1-2-3"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="70.113152"
        y="171.68694"
-       id="text953-1-2-4-9-0-6-6-9-9-3-0-6"><tspan
+       id="text953-1-2-4-9-0-6-6-9-9-3-0-6"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="70.113152"
          y="171.68694"
@@ -1197,7 +1423,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="70.113152"
        y="150.52025"
-       id="text953-1-2-4-9-0-6-6-9-9-3-0-6-0"><tspan
+       id="text953-1-2-4-9-0-6-6-9-9-3-0-6-0"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="70.113152"
          y="150.52025"
@@ -1208,7 +1437,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="70.113152"
        y="133.05775"
-       id="text953-1-2-4-9-0-6-6-9-9-3-0-6-0-3"><tspan
+       id="text953-1-2-4-9-0-6-6-9-9-3-0-6-0-3"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="70.113152"
          y="133.05775"
@@ -1219,7 +1451,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.64656px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0411639"
        x="70.113152"
        y="118.77023"
-       id="text953-1-2-4-9-0-6-6-9-9-3-0-6-0-0"><tspan
+       id="text953-1-2-4-9-0-6-6-9-9-3-0-6-0-0"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="70.113152"
          y="118.77023"
@@ -2083,7 +2318,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="133.63158"
        y="88.335686"
-       id="text953-1-2-4-9-0-6-6-5-3-6"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-6"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="133.63158"
          y="88.335686"
@@ -2094,7 +2332,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="106.37681"
        y="96.139526"
-       id="text953-1-2-4-9-0-6-6-5-3-8"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-8"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="106.37681"
          y="96.139526"
@@ -2105,7 +2346,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="106.64408"
        y="98.389809"
-       id="text953-1-2-4-9-0-6-6-5-3-8-7"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-8-7"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="106.64408"
          y="98.389809"
@@ -2116,7 +2360,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691"
        x="54.256588"
        y="128.69135"
-       id="text953-1-2-4-9-4"><tspan
+       id="text953-1-2-4-9-4"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="54.256588"
          y="128.69135"
@@ -2127,7 +2374,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691"
        x="54.256588"
        y="139.27469"
-       id="text953-1-2-4-9-0"><tspan
+       id="text953-1-2-4-9-0"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="54.256588"
          y="139.27469"
@@ -2138,7 +2388,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691"
        x="54.256588"
        y="160.44138"
-       id="text953-1-2-4-9-0-6"><tspan
+       id="text953-1-2-4-9-0-6"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="54.256588"
          y="160.44138"
@@ -2149,7 +2402,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="80.714912"
        y="87.945526"
-       id="text953-1-2-4-9-0-6-6"><tspan
+       id="text953-1-2-4-9-0-6-6"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="80.714912"
          y="87.945526"
@@ -2160,7 +2416,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="133.63158"
        y="96.941353"
-       id="text953-1-2-4-9-0-6-6-5"><tspan
+       id="text953-1-2-4-9-0-6-6-5"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="133.63158"
          y="96.941353"
@@ -2171,7 +2430,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="132.89183"
        y="123.45399"
-       id="text953-1-2-4-9-0-6-6-5-3-7-6-4-9"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-7-6-4-9"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="132.89183"
          y="123.45399"
@@ -2182,7 +2444,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="133.1591"
        y="130.78239"
-       id="text953-1-2-4-9-0-6-6-5-3-7-6-4-9-2"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-7-6-4-9-2"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="133.1591"
          y="130.78239"
@@ -2193,7 +2458,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="107.24543"
        y="76.547287"
-       id="text953-1-2-4-9-0-6-6-5-3-8-3-6"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-8-3-6"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="107.24543"
          y="76.547287"
@@ -2209,7 +2477,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="107.57951"
        y="87.852516"
-       id="text953-1-2-4-9-0-6-6-5-3-8-3-5-1"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-8-3-5-1"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="107.57951"
          y="87.852516"
@@ -2219,13 +2490,16 @@
          x="107.57951"
          y="90.760979"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="tspan28227">Ov. depot</tspan></text>
+         id="tspan28227">bokseklub</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="133.23463"
        y="76.443871"
-       id="text953-1-2-4-9-0-6-6-5-3-8-3-6-7"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-8-3-6-7"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="133.23463"
          y="76.443871"
@@ -2236,7 +2510,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="133.23463"
        y="81.735535"
-       id="text953-1-2-4-9-0-6-6-5-3-8-3-6-7-1"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-8-3-6-7-1"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="133.23463"
          y="81.735535"
@@ -2247,7 +2524,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:'Baekmuk Gulim';-inkscape-font-specification:'Baekmuk Gulim';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691"
        x="54.256588"
        y="107.52469"
-       id="text953-1-2-4-9-4-2"><tspan
+       id="text953-1-2-4-9-4-2"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="54.256588"
          y="107.52469"
@@ -2258,7 +2538,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="107.71315"
        y="110.23498"
-       id="text953-1-2-4-9-0-6-6-5-3-8-3-5"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-8-3-5"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="107.71315"
          y="110.23498"
@@ -2269,7 +2552,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="107.71315"
        y="104.94331"
-       id="text953-1-2-4-9-0-6-6-5-3-8-3-5-22"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-8-3-5-22"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="107.71315"
          y="104.94331"
@@ -2280,7 +2566,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="107.64633"
        y="117.6272"
-       id="text953-1-2-4-9-0-6-6-5-3-8-3-5-2"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-8-3-5-2"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="107.64633"
          y="117.6272"
@@ -2291,7 +2580,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.32677px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0581691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="106.12566"
        y="122.93496"
-       id="text953-1-2-4-9-0-6-6-5-3-8-3-5-2-8"><tspan
+       id="text953-1-2-4-9-0-6-6-5-3-8-3-5-2-8"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/hovedtavle/hovedtavle.png"
+       inkscape:export-xdpi="225.70692"
+       inkscape:export-ydpi="225.70692"><tspan
          sodipodi:role="line"
          x="106.12566"
          y="122.93496"
