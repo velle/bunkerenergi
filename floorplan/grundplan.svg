@@ -28,15 +28,15 @@
      inkscape:document-units="mm"
      showgrid="true"
      units="in"
-     inkscape:zoom="0.89716662"
-     inkscape:cx="244.65913"
-     inkscape:cy="315.99482"
+     inkscape:zoom="0.6343926"
+     inkscape:cx="497.3261"
+     inkscape:cy="-19.703887"
      inkscape:window-width="1526"
      inkscape:window-height="836"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer37"
      inkscape:snap-global="false"
      showguides="false">
     <inkscape:grid
@@ -5328,8 +5328,81 @@
      inkscape:groupmode="layer"
      id="layer32"
      inkscape:label="el"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer38"
+       inkscape:label="forslag til ladestandere 2 - kabel"
+       style="display:none">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 33.305236,47.856044 26.107591,45.348159 V 11.430063 l 5.937366,-5.937366 h 20.417904"
+         id="path5187" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 33.327411,48.957063 -8.867744,-3.357481 v -78.916338 l 5.893304,-5.893303 h 20.274766"
+         id="path5189" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.91945px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.122987"
+         x="35.733391"
+         y="-42.341183"
+         id="text3937-3"><tspan
+           sodipodi:role="line"
+           id="tspan3935-6"
+           style="stroke-width:0.122987"
+           x="35.733391"
+           y="-42.341183">kabel, 5g10</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.91945px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.122987"
+         x="49.484814"
+         y="2.8317223"
+         id="text3937-3-7"><tspan
+           sodipodi:role="line"
+           id="tspan3935-6-5"
+           style="stroke-width:0.122987"
+           x="49.484814"
+           y="2.8317223">kabel, 5g10</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer37"
+       inkscape:label="forslag til ladestandere 1 - rør"
+       style="display:inline">
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 25.552331,40.302433 V 13.343522 l 7.641738,-7.6417383 141.616661,0"
+         id="path2237"
+         sodipodi:nodetypes="cccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.91945px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.122987"
+         x="108.72744"
+         y="-2.2286909"
+         id="text3937"><tspan
+           sodipodi:role="line"
+           id="tspan3935"
+           style="stroke-width:0.122987"
+           x="108.72744"
+           y="-2.2286909">flexrør, Ø110</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.91945px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.122987"
+         x="98.951439"
+         y="-83.494812"
+         id="text3937-5"><tspan
+           sodipodi:role="line"
+           id="tspan3935-62"
+           style="stroke-width:0.122987"
+           x="98.951439"
+           y="-83.494812">flexrør, Ø110</tspan></text>
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="M 23.290507,40.15682 V -7.8069468 -80.580822 l 10.205073,-10.205074 144.62972,0"
+         id="path7790"
+         sodipodi:nodetypes="ccccc" />
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer24"
