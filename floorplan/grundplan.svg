@@ -28,15 +28,15 @@
      inkscape:document-units="mm"
      showgrid="true"
      units="in"
-     inkscape:zoom="0.6343926"
-     inkscape:cx="497.3261"
-     inkscape:cy="-19.703887"
+     inkscape:zoom="1.2687852"
+     inkscape:cx="288.07083"
+     inkscape:cy="1352.8689"
      inkscape:window-width="1526"
      inkscape:window-height="836"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer37"
+     inkscape:current-layer="layer39"
      inkscape:snap-global="false"
      showguides="false">
     <inkscape:grid
@@ -631,7 +631,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="grundplan, kld"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1417,7 +1417,7 @@
      inkscape:groupmode="layer"
      id="layer34"
      inkscape:label="grundplan, stue"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
@@ -5369,10 +5369,10 @@
        inkscape:groupmode="layer"
        id="layer37"
        inkscape:label="forslag til ladestandere 1 - rør"
-       style="display:inline">
+       style="display:none">
       <path
          style="fill:none;stroke:#ff0000;stroke-width:1.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 25.552331,40.302433 V 13.343522 l 7.641738,-7.6417383 141.616661,0"
+         d="M 25.552331,40.302433 V 13.343522 L 33.194069,5.7017837 H 174.81073"
          id="path2237"
          sodipodi:nodetypes="cccc" />
       <text
@@ -5399,7 +5399,7 @@
            y="-83.494812">flexrør, Ø110</tspan></text>
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="M 23.290507,40.15682 V -7.8069468 -80.580822 l 10.205073,-10.205074 144.62972,0"
+         d="M 23.290507,40.15682 V -7.8069468 -80.580822 L 33.49558,-90.785896 H 178.1253"
          id="path7790"
          sodipodi:nodetypes="ccccc" />
     </g>
@@ -5698,6 +5698,65 @@
          style="fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 108.5802,370.98435 1.89049,-3.27445 h 36.76985 l 1.46499,-1.46498"
          id="path53206" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer39"
+       inkscape:label="SR kabeltræk"
+       style="display:inline">
+      <path
+         style="fill:none;stroke:#ff2a2a;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 50.746784,111.72471 H 35.745216 V 45.321672 h 62.995066 1.909988 v 11.135529"
+         id="path7920"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 108.512,236.67332 H 32.871611 V 41.263427 h 70.428699 v 15.302724"
+         id="path8071" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="66.776115"
+         y="103.53328"
+         id="text11050"><tspan
+           sodipodi:role="line"
+           id="tspan11048"
+           style="fill:#ff0000;stroke-width:0.264583"
+           x="66.776115"
+           y="103.53328">ethernet</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="64.996246"
+         y="230.20195"
+         id="text11050-7"><tspan
+           sodipodi:role="line"
+           id="tspan11048-5"
+           style="fill:#0000ff;stroke-width:0.264583"
+           x="64.996246"
+           y="230.20195">modbus</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer40"
+       inkscape:label="bore huller"
+       style="display:none">
+      <path
+         style="fill:#ff2a2a;stroke:#ff2a2a;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 97.190096,50.166365 v 6.266836"
+         id="path8770" />
+      <path
+         style="display:inline;fill:#ff2a2a;stroke:#ff2a2a;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 98.777597,50.166365 v 6.266836"
+         id="path8770-3" />
+      <path
+         style="display:inline;fill:#ff2a2a;stroke:#ff2a2a;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 100.3651,50.166365 v 6.266836"
+         id="path8770-3-6" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="M 144.00128,23.838167 103.84285,47.938988"
+         id="path8975" />
     </g>
     <g
        inkscape:groupmode="layer"
