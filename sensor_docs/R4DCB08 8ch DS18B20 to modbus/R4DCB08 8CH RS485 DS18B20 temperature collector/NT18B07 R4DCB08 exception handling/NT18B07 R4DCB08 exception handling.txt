@@ -1,0 +1,10 @@
+Demo : https://youtu.be/1AbrZEKA2Ys
+
+1Unable to read data：
+If the data cannot be read, it may be that the RS485 address or baud rate is incorrect.
+Please send the command at different baud rate (1200 2400 4800 9600 19200): FF 03 00 FE 00 01 F0 24
+
+2 How to modify the baud rate(9600) 
+
+3 How to modify the RS485 address(01)
+
