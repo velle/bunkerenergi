@@ -58,8 +58,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="423.20341"
-     inkscape:cy="469.87246"
+     inkscape:cx="335.52216"
+     inkscape:cy="442.29528"
      inkscape:document-units="mm"
      inkscape:current-layer="layer13"
      showgrid="true"
@@ -98,7 +98,7 @@
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#040000;stroke-width:0.461836;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect109213"
-       width="140.9373"
+       width="140.937"
        height="169.33333"
        x="22.111605"
        y="53.468174"
@@ -1503,7 +1503,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="kommentarer"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true" />
   <g
      inkscape:groupmode="layer"
@@ -2004,7 +2004,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="målerdetaljer"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -2335,7 +2335,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="bryderdetaljer"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"

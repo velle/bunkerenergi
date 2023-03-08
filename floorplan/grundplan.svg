@@ -28,9 +28,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      units="mm"
-     inkscape:zoom="3.5886665"
-     inkscape:cx="332.29614"
-     inkscape:cy="1392.5786"
+     inkscape:zoom="0.63439262"
+     inkscape:cx="298.71091"
+     inkscape:cy="1146.7662"
      inkscape:window-width="1526"
      inkscape:window-height="836"
      inkscape:window-x="0"
@@ -513,7 +513,7 @@
        inkscape:groupmode="layer"
        id="layer25"
        inkscape:label="stue screenshot"
-       style="display:none;opacity:0.41568">
+       style="display:inline;opacity:0.41568">
       <image
          width="140.589"
          height="84.153374"
@@ -2444,7 +2444,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="trapper"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4048,7 +4048,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="vent.anlæg"
-     style="display:inline">
+     style="display:none">
     <rect
        style="display:inline;fill:none;stroke:#008000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
        id="rect7606"
@@ -4853,8 +4853,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="radiatorer ovartaci"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
     <rect
        style="fill:#008000;stroke:#008000;stroke-width:0.496356;stop-color:#000000"
        id="rect3313"
@@ -4951,8 +4950,8 @@
        id="rect3313-7-5-3-5-6-2-3"
        width="11.472617"
        height="0.33382991"
-       x="138.2988"
-       y="50.524063" />
+       x="167.40303"
+       y="39.940727" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.37494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.109374"
@@ -4977,6 +4976,50 @@
          y="15.473287">?</tspan></text>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.74354px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0685888"
+       x="187.99509"
+       y="28.085213"
+       id="text7142-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan7140-6-9"
+         style="stroke-width:0.0685888"
+         x="187.99509"
+         y="28.085213">radiator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.74354px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0685888"
+       x="182.68149"
+       y="38.668549"
+       id="text7142-0-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan7140-6-9-3"
+         style="text-align:start;text-anchor:start;stroke-width:0.0685888"
+         x="182.68149"
+         y="38.668549">radiator mangler</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.74354px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0685888"
+       x="182.81345"
+       y="17.501881"
+       id="text7142-0-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan7140-6-9-2"
+         style="text-align:start;text-anchor:start;stroke-width:0.0685888"
+         x="182.81345"
+         y="17.501881">fremløb</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.74354px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0685888"
+       x="182.81345"
+       y="22.793547"
+       id="text7142-0-2-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan7140-6-9-2-0"
+         style="text-align:start;text-anchor:start;stroke-width:0.0685888"
+         x="182.81345"
+         y="22.793547">returløb</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.37494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.109374"
        x="128.59341"
        y="49.339958"
@@ -4986,23 +5029,47 @@
          style="stroke-width:0.109374"
          x="128.59341"
          y="49.339958">?</tspan></text>
+    <rect
+       style="display:inline;fill:#008000;stroke:#008000;stroke-width:0.496356;stop-color:#000000"
+       id="rect3313-7-5-3-5-6-9-3"
+       width="11.472617"
+       height="0.33382991"
+       x="137.24048"
+       y="50.524063" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.37494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.109374"
+       x="142.35179"
+       y="49.339958"
+       id="text7142-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan7140-61-7"
+         style="stroke-width:0.109374"
+         x="142.35179"
+         y="49.339958">?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.37494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.109374"
-       x="144.46843"
-       y="49.339958"
+       x="173.57266"
+       y="38.756622"
        id="text7142-0-8"><tspan
          sodipodi:role="line"
          id="tspan7140-6-7"
          style="stroke-width:0.109374"
-         x="144.46843"
-         y="49.339958">?</tspan></text>
+         x="173.57266"
+         y="38.756622">?</tspan></text>
+    <rect
+       style="display:inline;fill:#008000;stroke:#008000;stroke-width:0.496356;stop-color:#000000"
+       id="rect3313-7-5-3-5-6-2-6"
+       width="11.472617"
+       height="0.33382991"
+       x="167.35374"
+       y="27.151468" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer36"
      inkscape:label="radiatorkreds ovartaci"
-     sodipodi:insensitive="true"
      style="display:none">
     <path
        style="fill:none;stroke:#008000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
@@ -5013,6 +5080,14 @@
        style="fill:none;stroke:#008000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 39.261187,48.474915 H 148.91767 V 14.998884 H 57.306606"
        id="path5566" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 167.24502,17.035087 h 8.83232"
+       id="path2770" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 1.05833;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 167.36598,22.359578 h 9.22976"
+       id="path2772" />
   </g>
   <g
      inkscape:groupmode="layer"
