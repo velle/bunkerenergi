@@ -28,9 +28,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      units="mm"
-     inkscape:zoom="0.5793429"
-     inkscape:cx="366.79486"
-     inkscape:cy="986.46242"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-57.982756"
+     inkscape:cy="623.66818"
      inkscape:window-width="1526"
      inkscape:window-height="836"
      inkscape:window-x="0"
@@ -500,6 +500,34 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path25564-5" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-76-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path25564-5-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path25564-9" />
+    </marker>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -651,35 +679,35 @@
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 34.756637,34.590085 H 45.160636"
        id="path11090"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 37.907425,34.982954 v 10.219811 h 2.553809"
        id="path11158"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 50.79143,29.132376 V 48.007711"
        id="path11160"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 30.590857,33.103846 V 17.967785"
        id="path11162"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 34.710917,18.018077 V 33.71062"
        id="path11164"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -687,7 +715,7 @@
        d="m 60.859058,107.34589 -0.02156,3.09301"
        id="path11166"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -695,7 +723,7 @@
        d="m 76.016344,107.3579 -0.02156,3.09301"
        id="path11166-3"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -703,7 +731,7 @@
        d="m 91.228465,107.34589 -0.02156,3.09301"
        id="path11166-2"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -711,7 +739,7 @@
        d="m 106.38576,107.3579 -0.0216,3.09301"
        id="path11166-3-0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -719,7 +747,7 @@
        d="m 121.62454,107.34589 -0.0216,3.09301"
        id="path11166-2-6"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -727,7 +755,7 @@
        d="m 136.68041,101.47327 13.96896,0.0216"
        id="path11166-2-6-5"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -735,7 +763,7 @@
        d="m 136.68041,105.99923 13.96896,0.0216"
        id="path11166-2-6-5-5"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -743,7 +771,7 @@
        d="m 136.78184,101.49846 -0.0216,8.95245"
        id="path11166-3-0-1"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -751,7 +779,7 @@
        d="m 60.859058,158.22952 -0.02156,4.59691"
        id="path11166-4"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -759,7 +787,7 @@
        d="m 76.016344,158.24153 -0.02156,4.59691"
        id="path11166-3-7"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -767,7 +795,7 @@
        d="m 91.228465,158.22952 -0.02156,4.59691"
        id="path11166-2-65"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -775,7 +803,7 @@
        d="m 106.38576,158.24153 -0.0216,4.59691"
        id="path11166-3-0-6"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -783,7 +811,7 @@
        d="m 121.62454,158.22952 -0.0216,4.59691"
        id="path11166-2-6-9"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -791,91 +819,91 @@
        d="m 136.82408,158.22952 -0.0216,4.59691"
        id="path11166-2-6-9-7"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 115.24378,55.397595 17.0733,17.184169 2.72036,-2.746325 -16.54049,-16.486933"
        id="path12284"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 150.64181,126.46879 h -6.90884 v 1.86115"
        id="path12399"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 143.7333,132.44249 v 1.62372"
        id="path12401"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 152.52059,142.43614 h 8.94699 v 4.00789 h -9.0559"
        id="path12403"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 60.159209,164.65478 v 9.003"
        id="path12805"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 68.45746,164.72402 0.161981,13.69913"
        id="path12807"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 46.892133,177.8216 H 64.356667"
        id="path12809"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 72.646753,177.84414 H 91.233396 V 164.63062"
        id="path12811"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 98.917034,164.19268 v 13.5574"
        id="path12813"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 95.53895,177.92806 h 5.86952"
        id="path12815"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 106.31394,177.70011 h 15.31469 l 0.0314,-7.43968 h 23.62503"
        id="path12817"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 150.59968,170.24051 h -1.37226"
        id="path12819"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -883,7 +911,7 @@
        d="M 46.248652,187.54927 H 56.585508"
        id="path12821"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -891,7 +919,7 @@
        d="m 45.732218,187.05741 -0.03678,24.19563"
        id="path12821-0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -899,119 +927,119 @@
        d="M 46.22906,202.30095 H 60.775483"
        id="path12823"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 65.72338,205.0187 V 192.10465"
        id="path12825"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 60.812031,202.10664 V 187.56592 H 76.190082"
        id="path12827"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 80.547235,185.24137 h -4.421814 v 16.83 3.17267"
        id="path12829"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 75.916741,202.19644 H 70.260802 V 187.62405"
        id="path12831"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 83.829307,185.13066 H 102.40778"
        id="path12833"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 105.89396,185.19042 h 15.44206"
        id="path12835"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 121.59696,182.93836 v 19.62352"
        id="path12837"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 121.53328,206.44942 v 4.65434"
        id="path12839"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 122.00387,200.54757 h 4.59065 v 6.34436 h 5.19547"
        id="path12841"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 135.57988,206.83282 h 11.50031"
        id="path12843"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 142.46309,206.76914 v -4.80685 h 8.22999"
        id="path12845"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 157.79248,205.28845 v -51.88056 h -5.29475"
        id="path12847"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 96.727353,211.18017 V 185.39714"
        id="path12849"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 76.226333,208.51076 v 2.72656"
        id="path12851"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 65.863808,208.70931 v 2.56002"
        id="path12853"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 60.958338,212.99691 v 10.18911 h 90.987482"
        id="path12857"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1019,7 +1047,7 @@
        d="m 137.01159,240.50479 v 17.07276 h 13.77881"
        id="path12972"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1027,7 +1055,7 @@
        d="m 152.72701,257.55989 h 5.13505 v 34.24977"
        id="path12974"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1035,119 +1063,119 @@
        d="M 151.6186,263.82752 V 422.66468"
        id="path12976"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 52.871054,132.41277 v 14.42217"
        id="path16400"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 60.78362,132.26581 v 21.34815 h 2.627289"
        id="path16402"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 66.386326,153.67111 H 77.869655"
        id="path16404"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 80.895038,153.41279 h 2.755305 v -17.47106"
        id="path16406"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 75.339357,136.13833 v 16.57788"
        id="path16408"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 64.64438,143.06137 H 75.143251"
        id="path16523"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 91.943075,53.593261 v 3.932616 h 3.156715"
        id="path17366"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 60.848607,265.14949 v 52.24338"
        id="path1457"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 46.212206,317.15643 v 5.36104"
        id="path1459"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m 30.347886,299.9623 v 5.36104"
        id="path1459-6"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m 30.347886,280.63393 v 5.36104"
        id="path1459-6-3"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m 15.200825,299.9623 v 5.36104"
        id="path1459-6-2"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m 15.200825,280.63393 v 5.36104"
        id="path1459-6-3-0"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 46.254661,326.29528 v 24.89607"
        id="path1461"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 47.026681,350.53624 H 60.92372"
        id="path1463"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 68.496322,350.73936 h 37.931588 v -17.21241 h 44.4056"
        id="path1465"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1155,7 +1183,7 @@
        d="m 110.91504,350.54461 h 26.72583"
        id="path1467"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1163,14 +1191,14 @@
        d="m 121.61165,334.16965 v 15.91841"
        id="path1469"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 136.943,333.87704 v 6.34794"
        id="path1471"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1178,7 +1206,7 @@
        d="m 136.99721,345.39139 v 4.62872"
        id="path1473"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1186,196 +1214,196 @@
        d="M 137.72026,360.04672 H 60.660501 v 5.74574"
        id="path1475"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 45.62372,422.68692 v -48.18081 h 83.86686"
        id="path1477"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 122.15899,374.53943 V 401.1781"
        id="path1479"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 121.71346,401.18659 v 21.57119"
        id="path1481"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 121.17665,400.81591 H 61.847597"
        id="path1483"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 60.954091,400.76889 v 21.4226"
        id="path1485"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 60.84077,400.25095 V 374.58808"
        id="path1487"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M -15.822519,422.69671 H 151.80735"
        id="path1489"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 152.04249,422.84972 v 4.84243"
        id="path1653"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 136.89973,422.85411 v 4.90972"
        id="path1655"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 121.69215,422.925 v 4.84814"
        id="path1657"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 106.47984,422.73018 v 4.96655"
        id="path1659"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 91.143097,422.81086 v 4.89272"
        id="path1661"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 76.10305,422.78178 v 5.00639"
        id="path1663"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 60.836198,422.70568 v 5.03547"
        id="path1665"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 45.556119,422.81429 v 9.11567"
        id="path1667"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 30.271304,422.85689 v 4.86548"
        id="path1669"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 15.045762,422.74783 v 9.2641"
        id="path1671"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m -0.13422199,422.72251 v 5.04867"
        id="path1673"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m -15.633433,427.67845 0.241992,-57.87435 h 15.02567791"
        id="path1675"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M -0.31590242,370.00672 V 255.493"
        id="path1687"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M -0.07112423,268.98674 H 8.9353275"
        id="path1689"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 13.809646,268.90867 H 29.058404"
        id="path1691"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 0.21198715,275.42902 H 8.9718133"
        id="path1693"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 13.021738,275.23183 h 20.420965 l 2.615895,-3.30128"
        id="path1695"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 38.653709,275.23413 h 6.062186"
        id="path1697"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 45.54075,273.49206 v 34.34607"
        id="path1699"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 47.345181,317.45745 H 150.99489"
        id="path1703"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1383,35 +1411,35 @@
        d="m 151.00505,321.8907 -69.402932,0.17413 v 14.483 h -1.64769"
        id="path1705"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 60.779347,318.46427 v 8.24209"
        id="path1707"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 61.138662,323.20513 H 81.078386"
        id="path1709"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 76.516737,323.42587 v 12.38348 0.73514 h 1.846864"
        id="path1711"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 45.126936,369.5393 h 1.501693 v -9.3041 H 30.447173"
        id="path2370"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1419,7 +1447,7 @@
        d="M 0.11038207,317.31971 H 5.3045444"
        id="path2372"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1427,168 +1455,168 @@
        d="m 10.018316,317.44478 h 19.660745 v 57.96251"
        id="path2374"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 49.876693,383.85464 H 60.677808"
        id="path2380"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 60.680747,369.38643 v 5.02237"
        id="path2382"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 76.100928,369.43474 v 4.98451"
        id="path2384"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 75.970952,360.1336 v 4.92244"
        id="path2386"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 91.433585,360.14731 v 14.27782"
        id="path2388"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 106.54777,360.2972 v 5.31926"
        id="path2390"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 106.56296,369.23882 v 5.18141"
        id="path2392"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m 99.139426,360.2972 v 5.31926"
        id="path2390-7"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m 99.15461,369.23882 v 5.18141"
        id="path2392-0"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 121.79519,369.46088 v 4.91691"
        id="path2398"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 137.08082,360.22047 v 4.90286"
        id="path2400"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 137.04816,369.40863 v 5.12524"
        id="path2402"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 134.35947,374.46987 h 7.98082 v 28.96746"
        id="path2404"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 143.01696,402.96935 h 8.10524"
        id="path2406"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 142.918,383.67763 h 8.23457"
        id="path2408"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 146.5678,374.54662 h 4.45251"
        id="path2410"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 147.07954,378.81591 v -4.00769"
        id="path2412"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 134.4999,374.72852 v 27.03772 h -5.51584 v -27.02465"
        id="path2414"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 141.7038,360.19335 v 4.929 h 0.69169"
        id="path2529"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 146.75264,360.47389 v 4.53612 h -1.03655"
        id="path2531"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 147.08019,362.93364 h 4.08055"
        id="path2533"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 141.69139,360.07775 v -3.51557"
        id="path2535"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 141.65155,350.95195 v 2.99731"
        id="path2537"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1596,42 +1624,42 @@
        d="m 61.301238,312.56316 h 14.772909 v 4.0618"
        id="path2827"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 46.161261,290.58962 h 7.78275"
        id="path2999"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 60.351397,290.68432 H 57.810161"
        id="path3001"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 10.899326,316.65222 V 311.6285 H 9.3720025"
        id="path4522"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 4.2332772,316.34602 v -5.12787"
        id="path4524"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 10.702349,318.69705 v 15.55634 H 4.8198211 v -15.56052"
        id="path4800"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1639,7 +1667,7 @@
        d="M 8.4859515,267.65893 V 241.19241"
        id="path5082"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1647,7 +1675,7 @@
        d="m 14.587856,240.87559 v 27.05446"
        id="path5084"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1655,7 +1683,7 @@
        d="m 29.615706,378.11302 v 8.84309"
        id="path2405"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1663,7 +1691,7 @@
        d="m 29.58321,389.73966 v 26.47138"
        id="path2407"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1671,7 +1699,7 @@
        d="M -14.474242,374.83669 H 28.688817"
        id="path2564"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1679,14 +1707,14 @@
        d="M -14.487635,378.61597 H 28.759481"
        id="path2566"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M -14.73888,386.36805 H 28.559148"
        id="path2568"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1694,7 +1722,7 @@
        d="M -14.826168,390.28264 H 28.849079"
        id="path2570"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1702,21 +1730,21 @@
        d="m 28.572434,415.56961 h -43.55332"
        id="path2572"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="M 46.868556,106.46858 H 136.30681"
        id="path12507"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 52.776254,128.36907 V 107.52182"
        id="path13606"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1724,7 +1752,7 @@
        d="m 48.256401,126.34295 -1.374913,-0.0584"
        id="path13608"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1732,14 +1760,14 @@
        d="m 52.54885,126.34295 -1.374913,-0.0584"
        id="path13608-3"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 46.140327,257.21707 V 240.42298"
        id="path48196"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1747,7 +1775,7 @@
        d="M 46.023019,234.61527 V 213.3997"
        id="path48198"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1755,21 +1783,21 @@
        d="m 45.14321,212.41666 h 105.1604"
        id="path48200"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="M 46.849005,240.98168 H 136.68237"
        id="path48877"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 30.456936,33.378965 V 268.90773"
        id="path8355"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1777,21 +1805,21 @@
        d="m 39.071531,268.81441 h 6.519698 v -4.61372 H 151.84578"
        id="path8357"
        sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="display:inline;fill:none;stroke:#999999;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 40.705235,239.97727 H 30.579991"
        id="path8449"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="M 45.67302,178.61346 V 158.42365"
        id="path8451"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1799,14 +1827,14 @@
        d="M 45.67302,149.50929 V 53.082962 h 46.094652"
        id="path8451-6"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 102.19435,52.863755 H 95.366492 V 76.977824 H 114.44837 V 52.743083 h -8.63792"
        id="path8726"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1814,35 +1842,35 @@
        d="m 121.61837,52.832073 v -19.22559 h -5.68018 V 23.938967 H 91.074747 V 39.891682 H 51.451988"
        id="path8841"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 45.734652,47.932652 V 14.292763"
        id="path8843"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="m 151.88581,100.71634 v 55.24608"
        id="path8958"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 152.07329,159.23321 v 6.67464"
        id="path8960"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="M 151.99352,163.20009 H 98.438855"
        id="path8962"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1850,21 +1878,21 @@
        d="M 91.139321,163.20009 H 45.522183"
        id="path8962-2"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 60.965712,134.32398 h 82.521208 v 11.94097"
        id="path9142"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="m 151.9585,169.7288 v 89.30926"
        id="path9257"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <rect
@@ -1874,7 +1902,7 @@
        height="20.662386"
        x="45.331516"
        y="157.86462"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <rect
@@ -1884,7 +1912,7 @@
        height="20.662386"
        x="45.331516"
        y="157.86462"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <rect
@@ -1895,7 +1923,7 @@
        x="-53.517544"
        y="105.76364"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <rect
@@ -1906,7 +1934,7 @@
        x="-78.506592"
        y="95.154358"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <rect
@@ -1916,7 +1944,7 @@
        height="15.87688"
        x="90.79071"
        y="23.942007"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <rect
@@ -1927,7 +1955,7 @@
        x="-164.51855"
        y="46.478996"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <rect
@@ -1937,7 +1965,7 @@
        height="5.8348613"
        x="45.331516"
        y="263.33615"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <rect
@@ -1948,7 +1976,7 @@
        x="-264.73303"
        y="45.572117"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <rect
@@ -1959,7 +1987,7 @@
        x="268.8537"
        y="-46.160915"
        transform="rotate(90)"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1967,7 +1995,7 @@
        d="m 133.81502,374.11444 0.0778,-3.57803 c -4.28277,-0.0236 -4.19846,3.58853 -4.19846,3.58853"
        id="path4214-3-6-5-2-0-6-5"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1975,7 +2003,7 @@
        d="m 106.53216,369.15472 2.97264,0.0646 c 0.0196,-3.55814 -2.98136,-3.48809 -2.98136,-3.48809"
        id="path4214-3-6-5-2-0-6-5-9"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1983,7 +2011,7 @@
        d="m 99.123816,369.15472 2.972634,0.0646 c 0.0196,-3.55814 -2.981354,-3.48809 -2.981354,-3.48809"
        id="path4214-3-6-5-2-0-6-5-9-3"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1991,7 +2019,7 @@
        d="m 60.648253,369.20447 -2.972634,0.0646 c -0.0196,-3.55814 2.981354,-3.48809 2.981354,-3.48809"
        id="path4214-3-6-5-2-0-6-5-9-3-6"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -1999,7 +2027,7 @@
        d="m 68.358927,350.51291 0.0646,2.97264 c -3.55814,0.0196 -3.48809,-2.98136 -3.48809,-2.98136"
        id="path4214-3-6-5-2-0-6-5-9-3-6-75"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -2007,7 +2035,7 @@
        d="m 61.297818,350.51291 -0.0646,2.97264 c 3.55814,0.0196 3.48809,-2.98136 3.48809,-2.98136"
        id="path4214-3-6-5-2-0-6-5-9-3-6-75-3"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -2015,14 +2043,14 @@
        d="m 137.14658,368.90474 2.97263,0.0646 c 0.0196,-3.55814 -2.98136,-3.48809 -2.98136,-3.48809"
        id="path4214-3-6-5-2-0-6-5-9-3-8"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 141.02723,360.01639 h 9.62468"
        id="path25931"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -2030,7 +2058,7 @@
        d="m 141.09486,359.75848 0.0646,-2.97263 c -3.55814,-0.0196 -3.48809,2.98136 -3.48809,2.98136"
        id="path4214-3-6-5-2-0-6-5-9-3-8-9"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -2038,7 +2066,7 @@
        d="m 140.9662,350.64829 0.0646,2.97263 c -3.55814,0.0196 -3.48809,-2.98136 -3.48809,-2.98136"
        id="path4214-3-6-5-2-0-6-5-9-3-8-9-23"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -2046,14 +2074,14 @@
        d="m 141.80446,354.01852 -2.33232,-0.0507 c -0.0154,2.7917 2.33917,2.73675 2.33917,2.73675"
        id="path4214-3-6-5-2-0-6-5-9-3-8-9-2"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 141.38117,350.40027 h 9.17951"
        id="path26655"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -2061,7 +2089,7 @@
        d="m 46.234427,373.68027 3.211904,0.0692 c 0.02118,-3.81337 -3.221326,-3.73829 -3.221326,-3.73829"
        id="path4214-3-6-5-2-0-6-5-9-3-6-7"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
     <path
@@ -2069,56 +2097,7 @@
        d="m 46.147791,322.64871 2.972634,-0.0646 c 0.0196,3.55814 -2.981354,3.48809 -2.981354,3.48809"
        id="path4214-3-6-5-2-0-6-5-9-3-6-5"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
-       inkscape:export-xdpi="172.58318"
-       inkscape:export-ydpi="172.58318" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103842"
-       x="60.852234"
-       y="331.95096"
-       id="text20243-8-6-48-7-6-9-5"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
-       inkscape:export-xdpi="172.58318"
-       inkscape:export-ydpi="172.58318"><tspan
-         sodipodi:role="line"
-         id="tspan20241-9-4-1-5-2-1-4"
-         style="font-size:2.82222px;stroke-width:0.103842"
-         x="60.852234"
-         y="331.95096">evt switch</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:2.82222px;stroke-width:0.103842"
-         x="60.852234"
-         y="335.47873"
-         id="tspan42488">her i fremtiden</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="M 59.604124,337.51452 49.04482,351.59536"
-       id="path42603"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
-       inkscape:export-xdpi="172.58318"
-       inkscape:export-ydpi="172.58318" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103842"
-       x="62.941154"
-       y="93.845116"
-       id="text20243-8-6-48-7-6-9-5-6"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
-       inkscape:export-xdpi="172.58318"
-       inkscape:export-ydpi="172.58318"><tspan
-         sodipodi:role="line"
-         style="font-size:2.82222px;stroke-width:0.103842"
-         x="62.941154"
-         y="93.845116"
-         id="tspan42488-3">&quot;serverrum&quot;</tspan></text>
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-76)"
-       d="M 60.197188,98.070706 49.637884,112.15155"
-       id="path42603-7"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+       inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
        inkscape:export-xdpi="172.58318"
        inkscape:export-ydpi="172.58318" />
   </g>
@@ -2126,7 +2105,8 @@
      inkscape:groupmode="layer"
      id="layer34"
      inkscape:label="grundplan, stue"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer26"
@@ -5852,7 +5832,7 @@
      inkscape:groupmode="layer"
      id="layer33"
      inkscape:label="it"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer28"
@@ -5860,29 +5840,44 @@
        style="display:inline">
       <path
          style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 49.040865,111.53355 -10.199447,-2.42955 0.0121,-59.448255 57.329739,0.873499 1.430772,2.940458 v 7.834136 l -2.112488,1.219646"
+         d="m 49.040865,111.53355 -10.199447,-2.42955 0.0121,-57.738035 56.271406,0.221612 1.430772,1.882125 v 1.484136"
          id="path42518"
-         sodipodi:nodetypes="ccccccc" />
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 38.102093,100.59254 1.92613,1.32883"
-         id="path44027" />
+         id="path44027"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <path
          style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 48.872249,112.46682 -11.406844,1.70532 0.14488,234.56401 4.228335,6.72921 5.84378,0.0111 -0.08709,-2.42126"
          id="path13981"
-         sodipodi:nodetypes="cccccc" />
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m 102.36028,240.50839 -1.42063,-7.92751 -58.783437,-0.31198 -0.971795,-1.9045 0.303024,-113.1323 7.384807,-3.17778"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 95.679551,240.50839 -0.03157,-7.92751 -53.49177,-0.31198 -0.971795,-1.9045 0.303024,-113.1323 7.384807,-3.17778"
          id="path48470"
-         sodipodi:nodetypes="cccccc" />
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.94223px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0985559"
          x="28.852034"
          y="117.14069"
-         id="text46685-1"><tspan
+         id="text46685-1"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318"><tspan
            sodipodi:role="line"
            id="tspan46683-9"
            style="stroke-width:0.0985559"
@@ -5891,17 +5886,26 @@
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 46.349892,116.13355 -1.516574,-1.78207"
-         id="path44027-3-4" />
+         id="path44027-3-4"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 36.625211,117.23254 1.78207,-1.51657"
-         id="path44027-3-4-4" />
+         id="path44027-3-4-4"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.94223px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0985559"
          x="50.896553"
          y="119.61529"
-         id="text46685-1-7"><tspan
+         id="text46685-1-7"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318"><tspan
            sodipodi:role="line"
            id="tspan46683-9-8"
            style="stroke-width:0.0985559"
@@ -5910,13 +5914,19 @@
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 47.927828,352.75546 2.18209,3.58672 h 15.326098 v 10.68472 h 42.747534 l 1.10053,1.90616 -1.68474,2.91807"
-         id="path15965" />
+         id="path15965"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.94223px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0985559"
          x="44.795521"
          y="107.33428"
-         id="text46685-1-7-1"><tspan
+         id="text46685-1-7-1"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318"><tspan
            sodipodi:role="line"
            id="tspan46683-9-8-5"
            style="stroke-width:0.0985559"
@@ -6000,7 +6010,7 @@
        inkscape:groupmode="layer"
        id="layer13"
        inkscape:label="switches"
-       style="display:inline">
+       style="display:none">
       <rect
          style="display:inline;fill:#ff0000;stroke:#ff0000;stroke-width:1.0065;-inkscape-stroke:none;stop-color:#000000"
          id="rect14524-3-6-3"
@@ -6015,6 +6025,55 @@
          height="0.78131151"
          x="47.519081"
          y="352.45026" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103842"
+         x="62.941154"
+         y="93.845116"
+         id="text20243-8-6-48-7-6-9-5-6"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.103842"
+           x="62.941154"
+           y="93.845116"
+           id="tspan42488-3">&quot;serverrum&quot;</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-76-5)"
+         d="M 60.197188,98.070706 49.637884,112.15155"
+         id="path42603-7"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103842"
+         x="33.955681"
+         y="371.04846"
+         id="text20243-8-6-48-7-6-9-5"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318"><tspan
+           sodipodi:role="line"
+           id="tspan20241-9-4-1-5-2-1-4"
+           style="font-size:2.82222px;stroke-width:0.103842"
+           x="33.955681"
+           y="371.04846">evt switch</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.103842"
+           x="33.955681"
+           y="374.57623"
+           id="tspan42488">her i fremtiden</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)"
+         d="m 39.493188,367.59743 7.209004,-13.42047"
+         id="path42603"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_ethernet.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
     </g>
   </g>
   <g
@@ -6338,18 +6397,18 @@
        inkscape:groupmode="layer"
        id="layer23"
        inkscape:label="elmålermodbus"
-       style="display:none">
+       style="display:inline">
       <path
          style="fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 100.17859,54.549643 -2.095303,-5.384554 -62.920603,-0.543017 -3.417061,1.467874 5.905768,4.918209 -1.161299,176.535205 4.113202,4.1132 h 50.436248 l 0.798125,4.56614"
+         d="m 97.449957,54.909295 -0.01184,-1.366715 -2.246947,-2.978345 -60.411432,0.03871 -3.034114,1.603667 5.905768,2.801542 -1.161299,176.535206 4.113202,4.1132 h 53.082081 l 0.798125,4.56614"
          id="path44600"
-         sodipodi:nodetypes="ccccccccc"
+         sodipodi:nodetypes="cccccccccc"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
          inkscape:export-xdpi="172.58318"
          inkscape:export-ydpi="172.58318" />
       <path
          style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.793749, 0.793749;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 91.996839,240.2133 0.0037,-6.39901 H 41.856157 l -3.625027,-3.62503 v -20.78199 l 3.237769,-3.23777 h 48.844099 l 4.635429,-4.63543 3.099438,5.36838 h 14.888175 l 7.08291,-12.26796"
+         d="m 94.642672,240.2133 0.0037,-6.39901 H 41.856157 l -3.625027,-3.62503 v -20.78199 l 3.237769,-3.23777 h 48.844099 l 4.635429,-4.63543 3.099438,5.36838 h 14.888175 l 7.08291,-12.26796"
          id="path51890"
          sodipodi:nodetypes="ccccccccccc"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
@@ -6357,7 +6416,7 @@
          inkscape:export-ydpi="172.58318" />
       <path
          style="fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 91.869693,240.18094 -2.250096,-1.64048 H 39.772489 l -4.335272,3.27694 v 108.57578 l 6.57557,6.57558 h 7.128905 l 5.076759,-5.07677 v -5.07002 l -1.295667,-1.29567 h -3.265453"
+         d="M 94.515526,240.18094 92.26543,238.54046 H 39.772489 l -4.335272,3.27694 v 108.57578 l 6.57557,6.57558 h 7.128905 l 5.076759,-5.07677 v -5.07002 l -1.295667,-1.29567 h -3.265453"
          id="path52180"
          sodipodi:nodetypes="ccccccccccc"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
@@ -6388,7 +6447,7 @@
          inkscape:export-ydpi="172.58318" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m 69.311495,47.457502 1.867414,3.234457"
+         d="m 96.836879,49.081675 -3.234449,1.86741"
          id="path2731"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
          inkscape:export-xdpi="172.58318"
@@ -6396,17 +6455,31 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103842;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-         x="68.679634"
-         y="46.924522"
+         x="96.781403"
+         y="47.882439"
          id="text20243-8-6-38-0-6-3-8-6"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
          inkscape:export-xdpi="172.58318"
          inkscape:export-ydpi="172.58318"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103842;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-           x="68.679634"
-           y="46.924522"
+           x="96.781403"
+           y="47.882439"
            id="tspan26115-4-9-6-0-7">bus3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103842;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="72.817078"
+         y="16.728743"
+         id="text20243-8-6-38-0-6-3-8-6-6"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103842;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="72.817078"
+           y="16.728743"
+           id="tspan26115-4-9-6-0-7-7">eltavle</tspan></text>
       <path
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
          d="m 37.76545,224.76722 -3.23446,1.86742"
@@ -6614,8 +6687,8 @@
          id="rect6904"
          width="6.3320942"
          height="6.86906"
-         x="96.194229"
-         y="56.451012"
+         x="97.810326"
+         y="58.574902"
          rx="0"
          ry="0"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
@@ -6624,8 +6697,8 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:1.4649px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0366226"
-         x="97.195549"
-         y="58.257931"
+         x="98.811646"
+         y="60.381824"
          id="text9979"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
          inkscape:export-xdpi="172.58318"
@@ -6633,25 +6706,25 @@
            sodipodi:role="line"
            id="tspan9977"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="97.195549"
-           y="58.257931">m161</tspan><tspan
+           x="98.811646"
+           y="60.381824">m161</tspan><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="97.195549"
-           y="60.089054"
+           x="98.811646"
+           y="62.212948"
            id="tspan10099">m162</tspan><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="97.195549"
-           y="61.920181"
+           x="98.811646"
+           y="64.044067"
            id="tspan10477">m163</tspan></text>
       <rect
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.091637px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
          id="rect6904-3"
          width="8.3948059"
          height="5.0132723"
-         x="60.999676"
-         y="371.37848"
+         x="62.05801"
+         y="375.08261"
          rx="0"
          ry="0"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
@@ -6660,29 +6733,29 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:1.4649px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0366226"
-         x="62.000996"
-         y="373.18539"
+         x="63.05933"
+         y="376.88953"
          id="text9979-7"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
          inkscape:export-xdpi="172.58318"
          inkscape:export-ydpi="172.58318"><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="62.000996"
-           y="373.18539"
+           x="63.05933"
+           y="376.88953"
            id="tspan17450">m001 - </tspan><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="62.000996"
-           y="375.01651"
+           x="63.05933"
+           y="378.72064"
            id="tspan17454">m011</tspan></text>
       <rect
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.091637px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
          id="rect6904-3-2"
          width="8.3948059"
          height="5.0132723"
-         x="107.45652"
-         y="371.53998"
+         x="101.4949"
+         y="375.18564"
          rx="0"
          ry="0"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
@@ -6691,28 +6764,28 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:1.4649px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0366226"
-         x="108.45784"
-         y="373.34689"
+         x="102.49622"
+         y="376.99255"
          id="text9979-7-8"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
          inkscape:export-xdpi="172.58318"
          inkscape:export-ydpi="172.58318"><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="108.45784"
-           y="373.34689"
+           x="102.49622"
+           y="376.99255"
            id="tspan17450-9">m031 - </tspan><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="108.45784"
-           y="375.17801"
+           x="102.49622"
+           y="378.82367"
            id="tspan17454-7">m034</tspan></text>
       <rect
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.091637px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
          id="rect6904-3-2-3"
          width="17.603851"
          height="5.0132751"
-         x="149.93735"
+         x="153.11238"
          y="364.21991"
          rx="0"
          ry="0"
@@ -6722,7 +6795,7 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:1.4649px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0366226"
-         x="150.93867"
+         x="154.11371"
          y="366.02682"
          id="text9979-7-8-6"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
@@ -6730,12 +6803,12 @@
          inkscape:export-ydpi="172.58318"><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="150.93867"
+           x="154.11371"
            y="366.02682"
            id="tspan17454-7-2">stueplan køkkentavle </tspan><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="150.93867"
+           x="154.11371"
            y="367.85794"
            id="tspan26020">og lystavle</tspan></text>
       <rect
@@ -6743,8 +6816,8 @@
          id="rect6904-3-2-3-9"
          width="15.239887"
          height="5.0132751"
-         x="88.400299"
-         y="195.58505"
+         x="87.840805"
+         y="188.22775"
          rx="0"
          ry="0"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
@@ -6753,29 +6826,29 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:1.4649px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0366226"
-         x="89.401627"
-         y="197.39197"
+         x="88.750923"
+         y="190.87827"
          id="text9979-7-8-6-3"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
          inkscape:export-xdpi="172.58318"
          inkscape:export-ydpi="172.58318"><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="89.401627"
-           y="197.39197"
+           x="88.750923"
+           y="190.87827"
            id="tspan26020-9">stueplan tekøkken </tspan><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="89.401627"
-           y="199.2231"
+           x="88.750923"
+           y="192.7094"
            id="tspan26625">og lystavle</tspan></text>
       <rect
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.091637px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
          id="rect6904-3-2-3-9-5"
          width="20.350677"
          height="5.0132751"
-         x="83.769966"
-         y="240.9845"
+         x="98.720947"
+         y="242.8804"
          rx="0"
          ry="0"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
@@ -6784,16 +6857,16 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:1.4649px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0366226"
-         x="84.771294"
-         y="242.79141"
+         x="100.05045"
+         y="245.94926"
          id="text9979-7-8-6-3-0"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
          inkscape:export-xdpi="172.58318"
          inkscape:export-ydpi="172.58318"><tspan
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
-           x="84.771294"
-           y="242.79141"
+           x="100.05045"
+           y="245.94926"
            id="tspan26625-6">master / dataopsamling</tspan></text>
       <rect
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.091637px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -6836,7 +6909,7 @@
          inkscape:export-ydpi="172.58318" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.793749, 0.793749;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m 50.473345,255.36142 v -2.53111 L 49.499234,252.2679 H 34.141961 l -1.598939,-2.11667 v -9.44035 l 3.88402,-3.88402 h 53.790846 l 1.590662,3.11406"
+         d="m 50.473345,255.36142 v -2.53111 L 49.499234,252.2679 H 34.141961 l -1.598939,-2.11667 v -9.44035 l 3.88402,-3.88402 h 56.436679 l 1.590662,3.11406"
          id="path35506"
          sodipodi:nodetypes="ccccccccc"
          inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
@@ -6847,98 +6920,157 @@
        inkscape:groupmode="layer"
        id="layer9"
        inkscape:label="eltavler"
-       style="display:none">
+       style="display:inline">
       <rect
-         style="fill:#0000ff;stroke:#0000ff;stroke-width:1.0065;-inkscape-stroke:none;stop-color:#000000"
+         style="fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
          id="rect14524-3"
-         width="0.78131151"
-         height="0.78131151"
-         x="31.2017"
-         y="47.863926" />
+         width="1.562623"
+         height="1.562623"
+         x="30.811045"
+         y="47.47327"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="fill:#0000ff;stroke:#0000ff;stroke-width:1.0065;-inkscape-stroke:none;stop-color:#000000"
+         style="fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
          id="rect14524-3-6"
-         width="0.78131151"
-         height="0.78131151"
-         x="99.161095"
-         y="54.114517" />
+         width="1.562623"
+         height="1.562623"
+         x="96.124603"
+         y="55.840527"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="display:inline;fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="rect14524-3-6-1"
+         width="1.562623"
+         height="1.562623"
+         x="98.770439"
+         y="53.723858"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
+      <rect
+         style="font-variation-settings:normal;opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.21;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect14524-3-7"
-         width="0.78131151"
-         height="0.78131151"
-         x="47.375267"
-         y="160.64198" />
+         width="1.562623"
+         height="1.562623"
+         x="46.984612"
+         y="160.25133"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="fill:#0000ff;stroke:#0000ff;stroke-width:1.0065;-inkscape-stroke:none;stop-color:#000000"
+         style="fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
          id="rect14524-3-7-9"
-         width="0.78131151"
-         height="0.78131151"
-         x="67.849304"
-         y="372.69778" />
+         width="1.562623"
+         height="1.562623"
+         x="67.458649"
+         y="372.30713"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="fill:#0000ff;stroke:#0000ff;stroke-width:1.0065;-inkscape-stroke:none;stop-color:#000000"
+         style="fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
          id="rect14524-3-7-1"
-         width="0.78131151"
-         height="0.78131151"
-         x="49.856651"
-         y="348.48462" />
+         width="1.562623"
+         height="1.562623"
+         x="49.465996"
+         y="348.09396"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.21;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect14524-3-5"
-         width="0.78131151"
-         height="0.78131151"
-         x="119.92937"
-         y="193.27415" />
+         width="1.562623"
+         height="1.562623"
+         x="119.53871"
+         y="192.8835"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="fill:#0000ff;stroke:#0000ff;stroke-width:1.0065;-inkscape-stroke:none;stop-color:#000000"
+         style="fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
          id="rect14524-3-3"
-         width="0.78131151"
-         height="0.78131151"
-         x="89.838005"
-         y="238.67543" />
+         width="1.562623"
+         height="1.562623"
+         x="85.743179"
+         y="238.81393"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="fill:#0000ff;stroke:#0000ff;stroke-width:1.0065;-inkscape-stroke:none;stop-color:#000000"
+         style="fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
          id="rect14524-3-56"
-         width="0.78131151"
-         height="0.78131151"
-         x="84.027336"
-         y="238.59045" />
+         width="1.562623"
+         height="1.562623"
+         x="79.93251"
+         y="238.72896"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.21;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect14524-3-2"
-         width="0.78131151"
-         height="0.78131151"
-         x="47.138802"
-         y="254.04564" />
+         width="1.562623"
+         height="1.562623"
+         x="47.076283"
+         y="254.96497"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.0065;-inkscape-stroke:none;stop-color:#000000"
+         style="display:inline;fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
          id="rect14524-3-7-9-6"
-         width="0.78131151"
-         height="0.78131151"
-         x="107.00763"
-         y="371.11026" />
+         width="1.562623"
+         height="1.562623"
+         x="106.61697"
+         y="370.7196"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.0065;-inkscape-stroke:none;stop-color:#000000"
+         style="display:inline;fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
          id="rect14524-3-7-9-6-3"
-         width="0.78131151"
-         height="0.78131151"
-         x="149.29167"
-         y="366.01181" />
+         width="1.562623"
+         height="1.562623"
+         x="148.90102"
+         y="365.62115"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.0065;-inkscape-stroke:none;stop-color:#000000"
+         style="display:inline;fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
          id="rect14524-3-5-4"
-         width="0.78131151"
-         height="0.78131151"
-         x="92.104095"
-         y="362.5238" />
+         width="1.562623"
+         height="1.562623"
+         x="91.71344"
+         y="362.13315"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
       <rect
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         style="font-variation-settings:normal;display:inline;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.21;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          id="rect14524-3-5-9"
-         width="0.78131151"
-         height="0.78131151"
-         x="102.46688"
-         y="202.79903" />
+         width="1.562623"
+         height="1.562623"
+         x="94.230782"
+         y="199.68582"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
+      <rect
+         style="display:inline;fill:#00ffff;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="rect14524-3-56-3"
+         width="1.562623"
+         height="1.562623"
+         x="65.860275"
+         y="14.939229"
+         inkscape:export-filename="/home/velle/a/bunkerenergi/eldokumentation/floorplan_modbus.png"
+         inkscape:export-xdpi="172.58318"
+         inkscape:export-ydpi="172.58318" />
     </g>
   </g>
 </svg>
