@@ -28,15 +28,15 @@
      inkscape:document-units="mm"
      showgrid="true"
      units="mm"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-57.982756"
-     inkscape:cy="623.66818"
-     inkscape:window-width="1526"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="877.87307"
+     inkscape:cy="915.34973"
+     inkscape:window-width="1530"
      inkscape:window-height="836"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer19"
      inkscape:snap-global="false"
      showguides="false">
     <inkscape:grid
@@ -4189,7 +4189,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="lokalenavne, kld"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103842"
@@ -5006,7 +5006,7 @@
      inkscape:groupmode="layer"
      id="layer31"
      inkscape:label="varme"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
@@ -5343,13 +5343,12 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="legend, varme"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer16"
        inkscape:label="gulvvarme"
-       style="display:none">
+       style="display:inline">
       <path
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff6600;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
          d="M 52.897814,234.9536 H 41.858972 V 59.46015"
@@ -5375,18 +5374,40 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.13011px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0782527"
        x="200.20531"
-       y="233.79887"
+       y="249.67389"
        id="text19332-2-9-2"><tspan
          sodipodi:role="line"
          style="text-align:start;text-anchor:start;stroke-width:0.0782527"
          x="200.20531"
-         y="233.79887"
+         y="249.67389"
          id="tspan19788-8-4-2">slingrepil. Princippet er, at der er et antal afgreninger. </tspan><tspan
          sodipodi:role="line"
          style="text-align:start;text-anchor:start;stroke-width:0.0782527"
          x="200.20531"
-         y="237.71152"
+         y="253.58653"
          id="tspan41979">Tegningen viser hverken korrekt antal eller korrekt placering</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.13011px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0782527"
+       x="200.20531"
+       y="233.79887"
+       id="text19332-2-9-2-4"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.0782527"
+         x="200.20531"
+         y="233.79887"
+         id="tspan41979-3">varme (ikke til gulvvarme)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.13011px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0782527"
+       x="200.20531"
+       y="239.09055"
+       id="text19332-2-9-2-4-3"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.0782527"
+         x="200.20531"
+         y="239.09055"
+         id="tspan41979-3-8">gulvvarme</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.13011px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0782527"
@@ -5413,21 +5434,21 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.13011px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0782527"
        x="200.20531"
-       y="249.67389"
+       y="265.54889"
        id="text19332-2-9-2-1"><tspan
          sodipodi:role="line"
          style="text-align:start;text-anchor:start;stroke-width:0.0782527"
          x="200.20531"
-         y="249.67389"
+         y="265.54889"
          id="tspan41979-9">1mm streg. Kraftigt rør/stort flow, </tspan><tspan
          sodipodi:role="line"
          style="text-align:start;text-anchor:start;stroke-width:0.0782527"
          x="200.20531"
-         y="253.58653"
+         y="269.46152"
          id="tspan52058">formentligt dyrt at installere måler. </tspan></text>
     <g
        id="g21100-6-9"
-       transform="matrix(0.99027333,0,0,0.99027333,131.16083,49.22696)"
+       transform="matrix(0.99027333,0,0,0.99027333,131.16083,65.101961)"
        style="display:inline">
       <rect
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
@@ -5444,12 +5465,12 @@
     </g>
     <path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-5-6-3-4-0-0-7)"
-       d="m 163.95409,232.99396 c 5.46259,-3.64285 9.43463,-1.79201 13.42263,0 4.82746,3.4302 9.20389,2.73751 13.42262,0.25668 1.09556,-0.25624 2.35449,-0.41061 3.47567,-0.38149 1.12748,0.0293 1.82518,0.22932 2.65359,0.31452"
+       d="m 163.95409,248.86897 c 5.46259,-3.64285 9.43463,-1.79201 13.42263,0 4.82746,3.4302 9.20389,2.73751 13.42262,0.25668 1.09556,-0.25624 2.35449,-0.41061 3.47567,-0.38149 1.12748,0.0293 1.82518,0.22932 2.65359,0.31452"
        id="path24516-3-2-2-8-8"
        sodipodi:nodetypes="cccsc" />
     <path
        style="display:inline;fill:none;stroke:#ff6600;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968627;marker-end:url(#Arrow1Mend-5-6-3-4-0-0-7-6)"
-       d="m 163.95409,238.28563 c 5.46259,-3.64285 9.43463,-1.79201 13.42263,0 4.82746,3.4302 9.20389,2.73751 13.42262,0.25668 1.09556,-0.25624 2.35449,-0.41061 3.47567,-0.38149 1.12748,0.0293 1.82518,0.22932 2.65359,0.31452"
+       d="m 163.95409,254.16064 c 5.46259,-3.64285 9.43463,-1.79201 13.42263,0 4.82746,3.4302 9.20389,2.73751 13.42262,0.25668 1.09556,-0.25624 2.35449,-0.41061 3.47567,-0.38149 1.12748,0.0293 1.82518,0.22932 2.65359,0.31452"
        id="path24516-3-2-2-8-8-0"
        sodipodi:nodetypes="cccsc" />
     <text
@@ -5495,76 +5516,86 @@
        id="rect7606-1-5"
        width="6.3992653"
        height="21.996735"
-       x="-299.82303"
+       x="-315.698"
        y="165.90556"
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.58189px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0895477"
        x="175.79892"
-       y="298.75528"
+       y="314.63025"
        id="text6576-7-97"><tspan
          id="tspan6574-0-7"
          style="stroke-width:0.0895477"
          x="175.79892"
-         y="298.75528"
+         y="314.63025"
          sodipodi:role="line">A5</tspan></text>
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff6600;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 193.29776,254.19735 H 164.41031"
+       d="M 193.29776,270.07236 H 164.41031"
        id="path12554-5-6"
        sodipodi:nodetypes="cc" />
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 193.29776,248.90568 H 164.41031"
+       d="M 193.29776,264.78069 H 164.41031"
        id="path12554-5-6-4"
        sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.13011px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0782527"
-       x="200.20531"
-       y="265.54889"
-       id="text19332-2-9-2-1-9"><tspan
-         sodipodi:role="line"
-         style="text-align:start;text-anchor:start;stroke-width:0.0782527"
-         x="200.20531"
-         y="265.54889"
-         id="tspan52058-9">0,5mm streg. Max 1,25&quot; rør,</tspan><tspan
-         sodipodi:role="line"
-         style="text-align:start;text-anchor:start;stroke-width:0.0782527"
-         x="200.20531"
-         y="269.46152"
-         id="tspan57594">formentligt knap så dyrt at installere måler. </tspan></text>
+    <path
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff6600;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="M 193.29776,238.32233 H 164.41031"
+       id="path12554-5-6-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="M 193.29776,233.03066 H 164.41031"
+       id="path12554-5-6-4-9"
+       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.13011px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0782527"
        x="200.20531"
        y="281.42386"
-       id="text19332-2-9-2-1-9-7"><tspan
+       id="text19332-2-9-2-1-9"><tspan
          sodipodi:role="line"
          style="text-align:start;text-anchor:start;stroke-width:0.0782527"
          x="200.20531"
          y="281.42386"
-         id="tspan57594-1">blandekreds</tspan></text>
+         id="tspan52058-9">0,5mm streg. Max 1,25&quot; rør,</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.0782527"
+         x="200.20531"
+         y="285.33649"
+         id="tspan57594">formentligt knap så dyrt at installere måler. </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.13011px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0782527"
        x="200.20531"
        y="297.29883"
-       id="text19332-2-9-2-1-9-7-6"><tspan
+       id="text19332-2-9-2-1-9-7"><tspan
          sodipodi:role="line"
          style="text-align:start;text-anchor:start;stroke-width:0.0782527"
          x="200.20531"
          y="297.29883"
+         id="tspan57594-1">blandekreds</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.13011px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0782527"
+       x="200.20531"
+       y="313.1738"
+       id="text19332-2-9-2-1-9-7-6"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.0782527"
+         x="200.20531"
+         y="313.1738"
          id="tspan57594-1-7">ventilationsanlæg, med navn hvis det kendes</tspan></text>
     <path
        style="font-variation-settings:normal;display:inline;fill:none;fill-opacity:1;stroke:#ff6600;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       d="M 193.29776,270.07236 H 164.41031"
+       d="M 193.29776,285.94737 H 164.41031"
        id="path12554-5-6-1"
        sodipodi:nodetypes="cc" />
     <path
        style="font-variation-settings:normal;display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       d="M 193.29776,264.78069 H 164.41031"
+       d="M 193.29776,280.6557 H 164.41031"
        id="path12554-5-6-4-7"
        sodipodi:nodetypes="cc" />
     <path
@@ -6080,7 +6111,7 @@
      inkscape:groupmode="layer"
      id="layer32"
      inkscape:label="el"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer38"
@@ -6716,7 +6747,7 @@
            sodipodi:role="line"
            style="text-align:start;text-anchor:start;stroke-width:0.0366226"
            x="98.811646"
-           y="64.044067"
+           y="64.044075"
            id="tspan10477">m163</tspan></text>
       <rect
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.091637px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
